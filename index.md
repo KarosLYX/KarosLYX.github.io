@@ -10,9 +10,11 @@
 
 ## 学习经历
 
+- 2025.10 - 至今 University of Strathclyde EEE | Phd
+- 2025.08 - 2025.09 福建辰光启明科技有限公司 | 实习工程师
 - 2022.09 - 2025.06 福州大学 车辆工程 | 硕士研究生  
 - 2018.09 - 2022.06 中国石油大学（华东） 车辆工程 | 本科  
-- 2025.08 - 2025.09 福建辰光启明科技有限公司 | 实习工程师
+
 
 ## 科研经历
 
@@ -39,12 +41,12 @@
 
 ### 学术论文
 
-1. **Li Y**, Zou W, Wei Q, Huang F, Wu J. *Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution*［C］. CVPRW, 2024.（一作，CCF-A类会议）
-2. Huang F, **Li Y**, Ye X, Wu J*. *Infrared Image Super-Resolution Network Utilizing the Enhanced Transformer and U-Net*. Sensors, 2024. （导师一作，JCR Q2）
-3. Wu J, Ni R, Huang F, Qiu Z, Chen L, Luo C, **Li Y**, Li Y. *Single-Point Supervised High-Resolution Dynamic Network for Infrared Small Target Detection*. IEEE Transactions on Geoscience and Remote Sensing, 2024. (JCR Q1)
-4. Wu J, Luo C, Qiu Z*, Chen L, Ni R, **Li Y**, Huang F, Wu J. *DFINet: Dynamic Feedback Iterative Network for Infrared Small Target Detection*. Pattern Recognition, 2026. (JCR Q1)
-5. 于蕾艳*, **李云祥**，石永军，侯泽宇，等. *线控制动系统设计与分析虚拟仿真教学平台*. 实验科学与技术，2023.（二作，导师一作）
-6. Huang F, Huang J, Wu J*, Lin J, Guo J, **Li Y**, Liu Z. *DRIGNet: Low-light Image Enhancement Based on Dual-range Information Guidance*
+1. Wu J, Luo C, Qiu Z*, Chen L, Ni R, **Li Y**, Huang F, Wu J. *DFINet: Dynamic Feedback Iterative Network for Infrared Small Target Detection*[J]. Pattern Recognition, 2026. (JCR Q1)
+2. Huang F, Huang J, Wu J*, Lin J, Guo J, **Li Y**, Liu Z. *DRIGNet: Low-light Image Enhancement Based on Dual-range Information Guidance*[J]. Displays, 2025. (JCR Q2)
+3. Wu J, Ni R, Huang F, Qiu Z, Chen L, Luo C, **Li Y**, Li Y. *Single-Point Supervised High-Resolution Dynamic Network for Infrared Small Target Detection*[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024. (JCR Q1)
+4. **Li Y**, Zou W, Wei Q, Huang F, Wu J. *Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution*［C］. CVPRW, 2024.（一作，CCF-A类会议）
+5. Huang F, **Li Y**, Ye X, Wu J*. *Infrared Image Super-Resolution Network Utilizing the Enhanced Transformer and U-Net*[J]. Sensors, 2024. （导师一作，JCR Q2）
+6. 于蕾艳*, **李云祥**，石永军，侯泽宇，等. *线控制动系统设计与分析虚拟仿真教学平台*[J]. 实验科学与技术，2023.（二作，导师一作）
 
 ### 专利
 
