@@ -23,7 +23,7 @@ title: "李云祥 - 个人简历 / CV"
 
 ## 🎓 学习经历
 
-- <strong>University of Strathclyde EEE</strong> | PhD（2025.10 - 至今）
+- <strong>University of Strathclyde </strong> EEE | PhD（2025.10 - 至今）
 - <strong>福建辰光启明科技有限公司</strong> | 实习工程师（2025.08 - 2025.09）
 - <strong>福州大学</strong> 车辆工程 | 硕士研究生（2022.09 - 2025.06）
 - <strong>中国石油大学（华东）</strong> 车辆工程 | 本科（2018.09 - 2022.06）
